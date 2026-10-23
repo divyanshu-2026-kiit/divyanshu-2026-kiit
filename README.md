@@ -89,7 +89,7 @@ I enjoy solving problems, exploring datasets, developing projects, and using AI 
 
 I'm interested in connecting with developers, analysts, recruiters, and people building useful technology.
 
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/)
+- 💼 [Connect with me on LinkedIn](www.linkedin.com/in/divyanshu-srivastava-20div02)
 - 💻 Explore my [GitHub repositories](https://github.com/divyanshu-2026-kiit)
 
 **Always learning. Always building. Always improving.** 🚀
